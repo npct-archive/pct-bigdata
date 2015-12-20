@@ -1,0 +1,8 @@
+This UK Data Service dataset is released under a UK Open Government License, the full terms of which can be read by going to http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/
+
+You must always include the following attribution statements to acknowledge the source of the information whenever you make use of this boundary dataset:
+
+Contains National Statistics data © Crown copyright and database right 2013
+Contains NISRA data © Crown copyright and database right 2013
+Contains NRS data © Crown copyright and database right 2013
+Contains Ordnance Survey data © Crown copyright and database right 2013
