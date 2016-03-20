@@ -1,5 +1,6 @@
 {
 "type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
 { "type": "Feature", "id": 1, "properties": { "geo_code": "E02002536", "MSOA11NM": "Stockton-on-Tees 002", "percent_fem": 0.600863, "avslope": 0.710642 }, "geometry": { "type": "Point", "coordinates": [ -1.295758646546615, 54.610678649992742 ] } },
@@ -177,7 +178,7 @@
 { "type": "Feature", "id": 173, "properties": { "geo_code": "E02005705", "MSOA11NM": "Northumberland 007", "percent_fem": 0.539499, "avslope": 4.680967 }, "geometry": { "type": "Point", "coordinates": [ -1.908383549860413, 55.31223325251608 ] } },
 { "type": "Feature", "id": 174, "properties": { "geo_code": "E02005702", "MSOA11NM": "Northumberland 004", "percent_fem": 0.462230, "avslope": 2.037173 }, "geometry": { "type": "Point", "coordinates": [ -1.630453985677052, 55.428124677017117 ] } },
 { "type": "Feature", "id": 175, "properties": { "geo_code": "E02005703", "MSOA11NM": "Northumberland 005", "percent_fem": 0.591537, "avslope": 3.530832 }, "geometry": { "type": "Point", "coordinates": [ -1.708056669681167, 55.409720119237122 ] } },
-{ "type": "Feature", "id": 176, "properties": { "geo_code": "E02005708", "MSOA11NM": "Northumberland 003", "percent_fem": 0.528676, "avslope": 3.037764 }, "geometry": { "type": "Point", "coordinates": [ -1.873738100808765, 55.579208103065248 ] } },
+{ "type": "Feature", "id": 176, "properties": { "geo_code": "E02005708", "MSOA11NM": "Northumberland 003", "percent_fem": 0.528676, "avslope": 3.037764 }, "geometry": { "type": "Point", "coordinates": [ -1.9114494, 55.55233 ] } },
 { "type": "Feature", "id": 177, "properties": { "geo_code": "E02005709", "MSOA11NM": "Northumberland 022", "percent_fem": 0.580420, "avslope": 0.808010 }, "geometry": { "type": "Point", "coordinates": [ -1.536263544815861, 55.127440153012628 ] } },
 { "type": "Feature", "id": 178, "properties": { "geo_code": "E02001685", "MSOA11NM": "Gateshead 004", "percent_fem": 0.559271, "avslope": 4.371396 }, "geometry": { "type": "Point", "coordinates": [ -1.720116461401917, 54.955899122141084 ] } },
 { "type": "Feature", "id": 179, "properties": { "geo_code": "E02001684", "MSOA11NM": "Gateshead 003", "percent_fem": 0.478261, "avslope": 2.925063 }, "geometry": { "type": "Point", "coordinates": [ -1.551668297901286, 54.954967840647356 ] } },
@@ -3366,7 +3367,7 @@
 { "type": "Feature", "id": 3362, "properties": { "geo_code": "E02006288", "MSOA11NM": "Suffolk Coastal 002", "percent_fem": 0.549828, "avslope": 1.482079 }, "geometry": { "type": "Point", "coordinates": [ 1.341113938313076, 52.220560714526655 ] } },
 { "type": "Feature", "id": 3363, "properties": { "geo_code": "E02005566", "MSOA11NM": "King's Lynn and West Norfolk 016", "percent_fem": 0.459350, "avslope": 0.467703 }, "geometry": { "type": "Point", "coordinates": [ 0.229490412832271, 52.608448060474174 ] } },
 { "type": "Feature", "id": 3364, "properties": { "geo_code": "E02005567", "MSOA11NM": "King's Lynn and West Norfolk 017", "percent_fem": 0.632373, "avslope": 1.273119 }, "geometry": { "type": "Point", "coordinates": [ 0.379581929663792, 52.604407215051893 ] } },
-{ "type": "Feature", "id": 3365, "properties": { "geo_code": "E02005564", "MSOA11NM": "King's Lynn and West Norfolk 014", "percent_fem": 0.291573, "avslope": 1.028104 }, "geometry": { "type": "Point", "coordinates": [ 0.45747757, 52.688142 ] } },
+{ "type": "Feature", "id": 3365, "properties": { "geo_code": "E02005564", "MSOA11NM": "King's Lynn and West Norfolk 014", "percent_fem": 0.291573, "avslope": 1.028104 }, "geometry": { "type": "Point", "coordinates": [ 0.46159744, 52.679661 ] } },
 { "type": "Feature", "id": 3366, "properties": { "geo_code": "E02005565", "MSOA11NM": "King's Lynn and West Norfolk 015", "percent_fem": 0.527027, "avslope": 0.487116 }, "geometry": { "type": "Point", "coordinates": [ 0.355421726409959, 52.685321966166192 ] } },
 { "type": "Feature", "id": 3367, "properties": { "geo_code": "E02005562", "MSOA11NM": "King's Lynn and West Norfolk 012", "percent_fem": 0.516129, "avslope": 1.519755 }, "geometry": { "type": "Point", "coordinates": [ 0.548067674647824, 52.744436175104141 ] } },
 { "type": "Feature", "id": 3368, "properties": { "geo_code": "E02005563", "MSOA11NM": "King's Lynn and West Norfolk 013", "percent_fem": 0.485175, "avslope": 0.393395 }, "geometry": { "type": "Point", "coordinates": [ 0.209811883053279, 52.696153812049779 ] } },
@@ -6204,7 +6205,7 @@
 { "type": "Feature", "id": 6200, "properties": { "geo_code": "E02003212", "MSOA11NM": "Swindon 001", "percent_fem": 0.618827, "avslope": 2.739819 }, "geometry": { "type": "Point", "coordinates": [ -1.711696004839816, 51.633710070143167 ] } },
 { "type": "Feature", "id": 6201, "properties": { "geo_code": "E02003210", "MSOA11NM": "Poole 017", "percent_fem": 0.433333, "avslope": 2.508677 }, "geometry": { "type": "Point", "coordinates": [ -1.950034528232541, 50.718977397360952 ] } },
 { "type": "Feature", "id": 6202, "properties": { "geo_code": "E02003211", "MSOA11NM": "Poole 018", "percent_fem": 0.416667, "avslope": 2.101900 }, "geometry": { "type": "Point", "coordinates": [ -1.915285716855576, 50.713720000006184 ] } },
-{ "type": "Feature", "id": 6203, "properties": { "geo_code": "E02004228", "MSOA11NM": "Torridge 009", "percent_fem": 0.535117, "avslope": 3.158283 }, "geometry": { "type": "Point", "coordinates": [ -4.2382304, 50.807183 ] } },
+{ "type": "Feature", "id": 6203, "properties": { "geo_code": "E02004228", "MSOA11NM": "Torridge 009", "percent_fem": 0.535117, "avslope": 3.158283 }, "geometry": { "type": "Point", "coordinates": [ -4.257803, 50.813311 ] } },
 { "type": "Feature", "id": 6204, "properties": { "geo_code": "E02004229", "MSOA11NM": "West Devon 001", "percent_fem": 0.529412, "avslope": 3.309225 }, "geometry": { "type": "Point", "coordinates": [ -4.010582855904931, 50.799445326167941 ] } },
 { "type": "Feature", "id": 6205, "properties": { "geo_code": "E02003218", "MSOA11NM": "Swindon 007", "percent_fem": 0.484807, "avslope": 1.083405 }, "geometry": { "type": "Point", "coordinates": [ -1.78769833135506, 51.580112678518248 ] } },
 { "type": "Feature", "id": 6206, "properties": { "geo_code": "E02003219", "MSOA11NM": "Swindon 008", "percent_fem": 0.495000, "avslope": 2.059832 }, "geometry": { "type": "Point", "coordinates": [ -1.720998872996257, 51.574610209923563 ] } },
