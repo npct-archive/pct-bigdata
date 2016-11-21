@@ -9,8 +9,6 @@
 .Rproj.user
 README.html
 .RData
-pct-data-master
-d.zip
-rf.Rds
-rq.Rds
-lsoa_zones_ew.Rds
+msoa/rf_nat.Rds
+msoa/rq_nat.Rds
+msoa/l_nat.Rds
